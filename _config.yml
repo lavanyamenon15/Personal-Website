@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
-logo: https://lavanyamenon15.github.io/ProfilePic.jpg
+logo: https://lavanyamenon15.github.io/ProfilePic.png
 title: Lavanya Menon
 description: |
   <br> <b>Education:</b> 4th Year Honours Computer Science Major at the University of British Columbia <br> <br>
