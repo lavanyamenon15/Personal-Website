@@ -2,28 +2,28 @@
   style=
   "border-radius: 24px;
   color: #3c4043;
-  padding: 12px 28px;
+  padding: 10px 26px;
   border: none" 
   type="button"> <a href="https://lavanyamenon15.github.io"> Home </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
-  padding: 12px 28px;
+  padding: 10px 26px;
   border: none"
   type="button"> <a href="https://lavanyamenon15.github.io/technicalskills"> Technical Skills </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
-  padding: 12px 28px;
+  padding: 10px 26px;
   border: none"
   type="button"> <a href="https://lavanyamenon15.github.io/projects"> Projects </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
-  padding: 12px 28px;
+  padding: 10px 26px;
   border: none"
   type="button"> <a href="https://lavanyamenon15.github.io/workexperience"> Work Experience </a> </button> 
 
