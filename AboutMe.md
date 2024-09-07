@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "AboutMe"
 permalink: /about/me
 remote_theme: pages-themes/minimal@v0.2.0
