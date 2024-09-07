@@ -1,3 +1,5 @@
+![profile picture](https://lavanyamenon15.github.io/ProfilePic.jpg)
+
 
 Hello! I'm Lavanya, a fourth year student at The University of British Columbia pursuing an Honours Bachelor of Science (BSc) majoring in Computer Science. I am a passionate and driven person who consistently strives to learn more about various facets of computer science as well as their applications. In the past, I have done back-end database development, full-stack bug resolution, algorithmic problem solving, front-end UI building, database development, and project management.
 
