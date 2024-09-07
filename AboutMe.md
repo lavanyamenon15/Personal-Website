@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "AboutMe"
+layout: default
+title: "About Me"
 permalink: /about
 ---
 
