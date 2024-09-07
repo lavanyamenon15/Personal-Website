@@ -1,6 +1,8 @@
-layout: page
+---
+layout: default
 title: "Technical Skills"
 permalink: /technicalskills
+---
 
 ## Technical Skills
 - **Programming Languages :**  TypeScript,  Java,   C++,  HTML,  JavaScript, CSS, SQL, PHP, Python* 
