@@ -1,5 +1,4 @@
-
-<button type="button"> <a href="https://lavanyamenon15.github.io"> Home </a> </button> 
+<button style="border-radius: 24px; color: #3c4043;" type="button"> <a href="https://lavanyamenon15.github.io"> Home </a> </button> 
 <button type="button"> <a href="https://lavanyamenon15.github.io/technicalskills"> Technical Skills </a> </button> 
 <button type="button"> <a href="https://lavanyamenon15.github.io/projects"> Projects </a> </button> 
 <button type="button"> <a href="https://lavanyamenon15.github.io/workexperience"> Work Experience </a> </button> 
