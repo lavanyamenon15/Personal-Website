@@ -68,7 +68,8 @@ permalink: /projects
 - Set up a Leaflet Map component and markers that dynamically loaded the latitude and longitude of all the stores in our database 
 - Linked the user’s profile location to the leaflet map component so that the map would centre around the user's address converted into a latitude and longitude coordinate.
 
-<iframe width="560" height="315" src="https://youtu.be/ykeLo7PApes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykeLo7PApes?si=C9gIZjKoC_cJrTrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 <div>
