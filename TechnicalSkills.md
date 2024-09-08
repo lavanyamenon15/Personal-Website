@@ -2,7 +2,8 @@ layout: page
 title: "Technical Skills"
 permalink: /technicalskills
 
-## Technical Skills
+# Technical Skills
+
 **Programming Languages :** TypeScript, Java, C++, HTML, JavaScript, CSS, SQL, PHP, Python* <br> <br>
 
 **Softwares :** Visual Studio Code, IntelliJ, GitHub, Node.js*, Unity Hub, Digital Ocean, Postman, Oracle, Airtable <br> <br>
