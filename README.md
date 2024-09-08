@@ -3,28 +3,36 @@
   "border-radius: 24px;
   color: #3c4043;
   padding: 8px 24px;
-  border: none" 
+  border: none;
+  margin-top: 2px;
+  margin-bottom: 2px;"
   type="button"> <a href="https://lavanyamenon15.github.io"> Home </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
   padding: 8px 24px;
-  border: none"
+  border: none;
+  margin-top: 2px;
+  margin-bottom: 2px;"
   type="button"> <a href="https://lavanyamenon15.github.io/technicalskills"> Technical Skills </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
   padding: 8px 24px;
-  border: none"
+  border: none;
+  margin-top: 2px;
+  margin-bottom: 2px;"
   type="button"> <a href="https://lavanyamenon15.github.io/projects"> Projects </a> </button> 
 <button 
   style=
   "border-radius: 24px;
   color: #3c4043;
   padding: 8px 24px;
-  border: none"
+  border: none;
+  margin-top: 2px;
+  margin-bottom: 2px;"
   type="button"> <a href="https://lavanyamenon15.github.io/workexperience"> Work Experience </a> </button> 
 
 Hello! I'm Lavanya, a fourth year student at The University of British Columbia pursuing an Honours Bachelor of Science (BSc) majoring in Computer Science. I am a passionate and driven person who consistently strives to learn more about various facets of computer science as well as their applications. In the past, I have worked with things like back-end database development, full-stack bug resolution, algorithmic problem solving, and front-end UI building.
