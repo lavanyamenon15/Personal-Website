@@ -53,6 +53,8 @@ permalink: /projects
 - Created a virtual space where users can brainstorm, collaborate, and find a community of people with similar interests 
 - Implemented an AI enhanced chat feature using several endpoints of the Cohere API such that Cohere’s generative AI would monitor, analyse, and enhance the conversation rather than completely drive it
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv8qoIJTEUg?si=Jb2PBizBLQ1WB4Y2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br> 
 
 <div>
