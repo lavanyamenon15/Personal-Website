@@ -49,7 +49,7 @@ permalink: /projects
 <p style="color:LightSlateGray;"> Language: JavaScript,  HTML, CSS, React.js, Figma </p>
 </div>
 
-- https://github.com/lavanyamenon15/JamSesh 
+- [https://github.com/lavanyamenon15/JamSesh](https://github.com/lavanyamenon15/JamSesh) 
 - Created a virtual space where users can brainstorm, collaborate, and find a community of people with similar interests 
 - Implemented an AI enhanced chat feature using several endpoints of the Cohere API such that Cohere’s generative AI would monitor, analyse, and enhance the conversation rather than completely drive it
 
@@ -63,7 +63,7 @@ permalink: /projects
 <p style="color:LightSlateGray;"> Languages: JavaScript,  HTML, CSS, React.js, Node.js, RapidAPI, Figma </p>
 </div>
 
-- https://github.com/jeyenlam/EcoChic 
+- [https://github.com/jeyenlam/EcoChic](https://github.com/jeyenlam/EcoChic) 
 - Created a sustainable fashion platform for users to find ethical and sustainable fashion stores near them
 - Connected a JSON server to our frontend for a lightweight database 
 - Configured routing between pages of the React App 
